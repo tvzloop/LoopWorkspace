@@ -207,6 +207,10 @@ jobs:
           # Several patches may be added per submodule.
           # Adding comments (#) may be useful to easily tell the individual patches apart.
 
+          now_line \
+          basal_lock \
+          negative_insulin
+
       # Patch Fastlane Match to not print tables
       - name: Patch Match Tables
         run: |
