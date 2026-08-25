@@ -209,7 +209,6 @@ jobs:
           /bin/bash -c "$(curl -fsSL \
           https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/CustomizationSelect.sh)" \
           now_line \
-          basal_lock \
           negative_insulin \
           profiles \
           meal_days
