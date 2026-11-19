@@ -243,7 +243,7 @@ jobs:
           https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/CustomizationSelect.sh)" \
           now_line \
           negative_insulin \
-          basal_lock\
+          basal_lock \
           profiles \
           watch_title \
           meal_days
